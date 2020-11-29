@@ -1,0 +1,11 @@
+name: DeathBook
+main: cc.shengdao.DeathBookMain
+version: 0.0.1
+commands:
+  db:
+    aliases:
+      - dreathbook
+      - ddb
+    usage: /db
+    permission: "DeathBook.admin"
+    permission-message: "无权使用"

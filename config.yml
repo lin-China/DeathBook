@@ -1,0 +1,12 @@
+#设置死亡笔记登记的范围
+Range: 50
+#设置玩家死亡时间（单位：秒）
+time: 10
+#设置使用笔记玩家禁止移动的时间（单位：秒）
+banMove: 5
+#一次性物品
+disposable: true
+#是否开启一次性物品的消息通知，对应message文件中的useItem
+useDisposebleItem: true
+#冷却时间（单位：秒）
+cooling: 2

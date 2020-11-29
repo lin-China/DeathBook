@@ -1,0 +1,7 @@
+message:
+  deathMessage: "&6死于心脏骤停"
+  tips: "&c有人在死亡笔记上记录下了某人的名字"
+  move: "&c禁止移动五秒，死亡笔记副作用！"
+  noPlayer: "&6附近没有玩家！"
+  useItem: "§7使用成功！"
+  afterCooling: "§4冷却完毕"
